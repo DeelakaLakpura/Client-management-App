@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478582213043",
+    "project_id": "my-application-a2633",
+    "storage_bucket": "my-application-a2633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478582213043:android:e6fc45861f3248fb4f23c6",
+        "android_client_info": {
+          "package_name": "com.example.fluttercurd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgh9j_BvBUXxltuKtBqkkX7T3XRw34Mfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
